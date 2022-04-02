@@ -1,0 +1,2 @@
+- 🤖 Cyber Security Specialist
+- 🧑‍💻 CompTIA IT Fundamentals, CompTIA A+, CompTIA Network+, CompTIA Security+, CompTIA Linux+, CompTIA CySA+, CompTIA PenTest+
